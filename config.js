@@ -1,2 +1,4 @@
-console.log("byyyeeee");
-console.log("V-1 config  file");
+console.log("byyyeeee v-2");
+console.log("V-2 config  file");
+
+let version = 2;
