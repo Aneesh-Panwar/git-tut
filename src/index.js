@@ -1,6 +1,6 @@
-console.log("helloooo v-2");
-console.log("V-2 index file");
+console.log("welcome to v-3");
+console.log("V-3 index file");
 
-for(let i=0; i<5; i++){
-    console.log(i);
+for(let i=0; i<3; i++){
+    console.log("v-3");
 }
