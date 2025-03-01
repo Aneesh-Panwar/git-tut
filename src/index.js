@@ -1,6 +1,6 @@
-console.log("welcome to v-3");
-console.log("V-3 index file");
+console.log("welcome to v-4 manipulated.......... ");
+console.log("V-4 manipulated.......... index file");
 
 for(let i=0; i<3; i++){
-    console.log("v-3");
+    console.log("v-4");
 }
